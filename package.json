@@ -1,0 +1,19 @@
+{
+  "name": "tsdd",
+  "version": "1.0.0",
+  "description": "Activities from TypeScript Deep Dive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshalkowski/typescript-deep-dive.git"
+  },
+  "author": "Benjamin Marshalkowski <marshalkowski@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshalkowski/typescript-deep-dive/issues"
+  },
+  "homepage": "https://github.com/marshalkowski/typescript-deep-dive#readme"
+}
